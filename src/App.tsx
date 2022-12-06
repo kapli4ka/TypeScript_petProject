@@ -1,8 +1,6 @@
 import React, {useEffect, useState} from 'react';
-import Types from "./types/types";
 import Users from "./Users/Users";
 import IUser from "./types/types";
-import * as wasi from "wasi";
 import axios from "axios";
 
 
